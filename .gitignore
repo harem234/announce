@@ -1,0 +1,5 @@
+*.pyc
+.venv
+.vscode
+announment_prj.code-workspace
+db.sqlite3
